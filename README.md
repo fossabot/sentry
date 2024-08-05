@@ -10,6 +10,8 @@
 </p>
 
 # What's Sentry?
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoanttz1%2Fsentry.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoanttz1%2Fsentry?ref=badge_shield)
+
 
 Sentry is a developer-first error tracking and performance monitoring platform that helps developers see what actually matters, solve quicker, and learn continuously about their applications.
 
@@ -54,3 +56,7 @@ Sentry is a developer-first error tracking and performance monitoring platform t
 - [Code](https://github.com/getsentry/sentry)
 - [Transifex](https://www.transifex.com/getsentry/sentry/) (Translate
   Sentry\!)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoanttz1%2Fsentry.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoanttz1%2Fsentry?ref=badge_large)
